@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{c35e3db4-4ea1-42c9-0eff-0e5c385e7647}</ProjectGuid>
+    <ProjectGuid>{16f16e46-dc4c-474c-3c18-fd45addb1c6b}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Postprocessing.Runtime</AssemblyName>
@@ -631,10 +631,10 @@
         <HintPath>C:/Program Files/2019.4.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>D:/FinnWork/Unity Projects/Mouse Look/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>D:/FinnWork/LotGK/src/LotGK Unity/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>D:/FinnWork/Unity Projects/Mouse Look/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>D:/FinnWork/LotGK/src/LotGK Unity/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

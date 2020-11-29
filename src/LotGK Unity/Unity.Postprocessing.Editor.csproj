@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{3c349ec7-20f8-5a82-6924-dbd3bac0a6c7}</ProjectGuid>
+    <ProjectGuid>{adf600a0-bff6-4854-3160-622e03ea8550}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Postprocessing.Editor</AssemblyName>
@@ -265,7 +265,7 @@
         <HintPath>C:/Program Files/2019.4.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>D:/FinnWork/Unity Projects/Mouse Look/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>D:/FinnWork/LotGK/src/LotGK Unity/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>C:/Program Files/2019.4.11f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -622,21 +622,21 @@
         <HintPath>C:/Program Files/2019.4.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>D:/FinnWork/Unity Projects/Mouse Look/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>D:/FinnWork/LotGK/src/LotGK Unity/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>D:/FinnWork/Unity Projects/Mouse Look/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>D:/FinnWork/LotGK/src/LotGK Unity/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-        <HintPath>D:/FinnWork/Unity Projects/Mouse Look/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+        <HintPath>D:/FinnWork/LotGK/src/LotGK Unity/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-        <HintPath>D:/FinnWork/Unity Projects/Mouse Look/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+        <HintPath>D:/FinnWork/LotGK/src/LotGK Unity/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Postprocessing.Runtime.csproj">
-      <Project>{c35e3db4-4ea1-42c9-0eff-0e5c385e7647}</Project>
+      <Project>{16f16e46-dc4c-474c-3c18-fd45addb1c6b}</Project>
       <Name>Unity.Postprocessing.Runtime</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
