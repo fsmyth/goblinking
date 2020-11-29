@@ -19,6 +19,7 @@ ScriptsOnlyBuild:
     - PlayerManager
     - ProjectileMovement
     - Timer
+    - ToWin
     - Win
     - Winner
     Unity.Rider.Editor.dll:
@@ -206,6 +207,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13300}
     - Class: 114
       Script: {instanceID: 13336}
+    - Class: 114
+      Script: {instanceID: 16102}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -721,7 +724,7 @@ ScriptsOnlyBuild:
     className: RemoteTestResultSender
   - hash:
       serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+      Hash: 1529b9b66f06fad7452a3be9415f8afe
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Win
@@ -1025,6 +1028,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 685d8fb7a914e595a45cb3a9ebf107ad
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ToWin
   platform: 5
   scenePathNames:
   - Assets/Scenes/menuScene.unity

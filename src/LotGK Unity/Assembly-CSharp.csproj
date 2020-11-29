@@ -57,6 +57,7 @@
      <Compile Include="Assets\Scripts\Weapon\Crossbow.cs" />
      <Compile Include="Assets\Scripts\Weapon\Enemy.cs" />
      <Compile Include="Assets\Scripts\Weapon\ProjectileMovement.cs" />
+     <Compile Include="Assets\ToWin.cs" />
      <None Include="Assets\Imports\SineVFX\PostProcessingV2\Shaders\StdLib.hlsl" />
      <None Include="Assets\Imports\SineVFX\PostProcessingV2\Shaders\Debug\Waveform.shader" />
      <None Include="Assets\Imports\SineVFX\PostProcessingV2\Shaders\Builtins\MultiScaleVOUpsample.compute" />
